@@ -13,60 +13,59 @@
 
 🇳🇬 **Nigerian cybersecurity engineer and full-stack developer** with production experience building AI automation workflows, security platforms, and WhatsApp logistics systems serving real customers.
 
-I don't just build projects — I build products that solve real problems: delivery bots handling thousands of orders, security platforms processing live threat intelligence, and multi-tenant SaaS products with AI content generation.
+I don't just build projects — I build products that solve real problems: delivery bots handling thousands of orders, security platforms processing live threat intelligence, and SaaS platforms with AI content generation.
 
 **Certifications:** ISC2 Certified in Cybersecurity · Cisco Pentest Certified  
-**Core:** AI Automation · n8n · LangChain · Node.js · Python · FastAPI · NestJS · TypeScript · React Native · PostgreSQL
-
----
-
-## 💼 What I've Built (In Production)
-
-### 🔒 Security & OSINT
-
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| **[SENTINAL](https://github.com/mamuaminu/santinal)** | Africa's AI-native cybersecurity scan engine — vulnerability detection, CVE tracking for Nigerian infra, WhatsApp alerting, PDF reports | FastAPI, Python, OSINT, Flutterwave |
-| **[CVE Tracker NG](https://github.com/mamuaminu/cve-tracker-ng)** | Real-time CVE monitoring for Nigerian infrastructure + Telegram alerts for Critical vulns | Express.js, PostgreSQL, API |
-| **[Malware Tool](https://github.com/mamuaminu/malware_tool)** | Static malware analysis — multi-hash, PE parsing, YARA, VirusTotal integration, Flask UI | Python, YARA, Flask |
-| **[Hawkeye Intelligence](https://github.com/mamuaminu/Hawkeye-Intelligence)** | OSINT platform monitoring Nigeria's security/economic landscape — ACLED data, NASA FIRMS, satellite analysis, STIX 2.1 | Node.js, Python, React |
-| **[SecLab Nigeria](https://github.com/mamuaminu/seclab-nigeria)** | Cybersecurity lab with CTF writeups and interactive security demos | TypeScript, React |
-
-### 🤖 AI & n8n Automation
-
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| **[PostForge AI](https://github.com/mamuaminu/social-pulse)** | Multi-tenant social media SaaS — OAuth login, AI content generation, scheduled posting, n8n automation workflows | Python, Node.js, OAuth, AI |
-| **[Hayaku Express](https://github.com/mamuaminu/hayaku-express)** | WhatsApp delivery dispatch bot — real orders in Abuja/Kaduna, rider app, admin dashboard, live tracking | Node.js, WhatsApp, React Native |
-
-### 📊 Backend & Platform Engineering
-
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| **[CRMD Risk Portal](https://github.com/mamuaminu/risk-portal)** | NestJS + React enterprise risk management — WebSocket real-time updates, security-hardened | NestJS, React, TypeScript, WebSocket |
-| **[Shabrat E-Commerce](https://github.com/mamuaminu/shabrat-ecom)** | Next.js + Flutterwave e-commerce serving Kaduna | Next.js, TypeScript, PostgreSQL |
-| **[Hayaku Admin](https://github.com/mamuaminu/hayaku-admin)** | Live stats dashboard for Hayaku Express — orders, riders, customers | React, Node.js |
-| **[Job Tracker](https://github.com/mamuaminu/job-tracker)** | CLI tool for tracking job applications, interview stages, follow-ups | JavaScript, CLI |
-
-### 📚 Learning & Community
-
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| **[CC-Prep](https://github.com/mamuaminu/cc-prep)** | ISC2 CC exam prep CLI — flashcard and quiz mode | Python, CLI |
-| **[Interview Ace](https://github.com/mamuaminu/interview-ace)** | Security interview trainer — STAR builder, JD parser, question bank | React, TypeScript |
-| **[Interview Forge](https://github.com/mamuaminu/interview-forge)** | Security interview practice tool | JavaScript |
+**Core:** n8n · AI Automation · LangChain · Node.js · Python · FastAPI · NestJS · TypeScript · React Native
 
 ---
 
 ## 🛠️ Tech Stack
 
 **AI & Automation:** n8n · LangChain · OpenAI · Hugging Face · Automation Workflows  
-**Backend:** Node.js · Python · FastAPI · NestJS · Express.js · TypeScript  
-**Frontend:** React Native · Next.js · React · HTML/CSS/JavaScript  
-**Databases:** PostgreSQL · MongoDB · Redis  
 **Security:** Penetration Testing · Malware Analysis · OSINT · CVE Tracking · CTF  
+**Backend:** Node.js · Python · FastAPI · NestJS · Express.js · TypeScript  
+**Frontend:** React Native · Next.js · React  
+**Databases:** PostgreSQL · MongoDB · Redis  
 **Infrastructure:** Docker · PM2 · Linux · GitHub Actions · Cloudflare  
 **APIs:** REST · WebSocket · STIX 2.1 · Telegram Bot API · WhatsApp API  
+
+---
+
+## 📦 Projects (All Public)
+
+### 🔒 Security & OSINT
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| **[CVE Tracker NG](https://github.com/mamuaminu/cve-tracker-ng)** | Real-time CVE monitoring for Nigerian infrastructure + Telegram alerts for Critical vulns | Express.js, PostgreSQL, API |
+| **[Malware Tool](https://github.com/mamuaminu/malware_tool)** | Static malware analysis — multi-hash, PE parsing, YARA, VirusTotal integration, Flask UI | Python, YARA, Flask |
+| **[SecLab Nigeria](https://github.com/mamuaminu/seclab-nigeria)** | Cybersecurity lab with CTF writeups and interactive security demos | TypeScript, React |
+| **[Hawkeye Intelligence](https://github.com/mamuaminu/Hawkeye-Intelligence)** | OSINT platform — ACLED data, NASA FIRMS, satellite imagery, STIX 2.1 threat feeds | Node.js, Python, React |
+
+### 🤖 AI & n8n Automation
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| **[Interview Ace](https://github.com/mamuaminu/interview-ace)** | Security interview trainer — STAR builder, JD parser, question bank, AI-powered prep | React, TypeScript |
+| **[CC-Prep](https://github.com/mamuaminu/cc-prep)** | ISC2 CC exam prep CLI — flashcard and quiz mode with spaced repetition | Python, CLI |
+
+### 💼 Backend & Platform Engineering
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| **[Job Tracker](https://github.com/mamuaminu/job-tracker)** | CLI tool for tracking job applications, interview stages, follow-ups | JavaScript, CLI |
+| **[Risk Portal](https://github.com/mamuaminu/risk-portal)** | NestJS + React enterprise risk management — WebSocket real-time updates | NestJS, React, TypeScript, WebSocket |
+| **[Hayaku Express](https://github.com/mamuaminu/hayaku-express)** | WhatsApp delivery dispatch bot — real orders in Abuja/Kaduna, rider app, admin dashboard | Node.js, WhatsApp, React Native |
+| **[Hayaku Rider](https://github.com/mamuaminu/hayaku-rider)** | React Native rider app for Hayaku Express delivery fleet | React Native, Expo |
+
+### 🎨 Creative & Developer Tools
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| **[NeuroCards](https://github.com/mamuaminu/neurocards)** | NFC business cards, loyalty tags and secure badges | HTML, JavaScript |
+| **[Interview Forge](https://github.com/mamuaminu/interview-forge)** | Security interview practice with scenario-based training | JavaScript |
+| **[Portfolio](https://github.com/mamuaminu/portfolio)** | This portfolio — cybersecurity analyst, full-stack developer, AI builder | HTML, CSS, JavaScript |
 
 ---
 
