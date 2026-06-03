@@ -28,7 +28,7 @@ I don't just build projects — I build products that solve real problems: deliv
 **Frontend:** React Native · Next.js · React  
 **Databases:** PostgreSQL · MongoDB · Redis  
 **Infrastructure:** Docker · PM2 · Linux · GitHub Actions · Cloudflare  
-**APIs:** REST · WebSocket · STIX 2.1 · Telegram Bot API · WhatsApp API  
+**APIs:** REST · WebSocket · Telegram Bot API · WhatsApp API  
 
 ---
 
@@ -39,15 +39,14 @@ I don't just build projects — I build products that solve real problems: deliv
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | **[CVE Tracker NG](https://github.com/mamuaminu/cve-tracker-ng)** | Real-time CVE monitoring for Nigerian infrastructure + Telegram alerts for Critical vulns | Express.js, PostgreSQL, API |
-| **[Malware Tool](https://github.com/mamuaminu/malware_tool)** | Static malware analysis — multi-hash, PE parsing, YARA, VirusTotal integration, Flask UI | Python, YARA, Flask |
+| **[Malware Tool](https://github.com/mamuaminu/malware_tool)** | Static malware analysis — multi-hash, PE parsing, YARA, VirusTotal, Flask UI | Python, YARA, Flask |
 | **[SecLab Nigeria](https://github.com/mamuaminu/seclab-nigeria)** | Cybersecurity lab with CTF writeups and interactive security demos | TypeScript, React |
-| **[Hawkeye Intelligence](https://github.com/mamuaminu/Hawkeye-Intelligence)** | OSINT platform — ACLED data, NASA FIRMS, satellite imagery, STIX 2.1 threat feeds | Node.js, Python, React |
 
 ### 🤖 AI & n8n Automation
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| **[Interview Ace](https://github.com/mamuaminu/interview-ace)** | Security interview trainer — STAR builder, JD parser, question bank, AI-powered prep | React, TypeScript |
+| **[Interview Ace](https://github.com/mamuaminu/interview-ace)** | Security interview trainer — STAR builder, JD parser, AI-powered question bank | React, TypeScript |
 | **[CC-Prep](https://github.com/mamuaminu/cc-prep)** | ISC2 CC exam prep CLI — flashcard and quiz mode with spaced repetition | Python, CLI |
 
 ### 💼 Backend & Platform Engineering
@@ -55,9 +54,9 @@ I don't just build projects — I build products that solve real problems: deliv
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | **[Job Tracker](https://github.com/mamuaminu/job-tracker)** | CLI tool for tracking job applications, interview stages, follow-ups | JavaScript, CLI |
-| **[Risk Portal](https://github.com/mamuaminu/risk-portal)** | NestJS + React enterprise risk management — WebSocket real-time updates | NestJS, React, TypeScript, WebSocket |
-| **[Hayaku Express](https://github.com/mamuaminu/hayaku-express)** | WhatsApp delivery dispatch bot — real orders in Abuja/Kaduna, rider app, admin dashboard | Node.js, WhatsApp, React Native |
-| **[Hayaku Rider](https://github.com/mamuaminu/hayaku-rider)** | React Native rider app for Hayaku Express delivery fleet | React Native, Expo |
+| **[Risk Portal](https://github.com/mamuaminu/risk-portal)** | NestJS + React enterprise risk management — WebSocket real-time updates | NestJS, React, TypeScript |
+| **[Hayaku Pulse](https://github.com/mamuaminu/hayaku-pulse)** | Live metrics dashboard for delivery dispatch — orders, riders, customers | Node.js, Express, WebSocket |
+| **[Hayaku Rider](https://github.com/mamuaminu/hayaku-rider)** | React Native rider app for delivery fleet management | React Native, Expo |
 
 ### 🎨 Creative & Developer Tools
 
@@ -65,6 +64,7 @@ I don't just build projects — I build products that solve real problems: deliv
 |---------|-------------|-------|
 | **[NeuroCards](https://github.com/mamuaminu/neurocards)** | NFC business cards, loyalty tags and secure badges | HTML, JavaScript |
 | **[Interview Forge](https://github.com/mamuaminu/interview-forge)** | Security interview practice with scenario-based training | JavaScript |
+| **[Matador README](https://github.com/mamuaminu/matador-readme)** | Auto-generate GitHub README portfolio from profile and repos | JavaScript, GitHub API |
 | **[Portfolio](https://github.com/mamuaminu/portfolio)** | This portfolio — cybersecurity analyst, full-stack developer, AI builder | HTML, CSS, JavaScript |
 
 ---
